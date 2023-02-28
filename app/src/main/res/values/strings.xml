@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Calculator Project</string>
+
+    <string-array name="currencies">
+        <item>EUR</item>
+
+        <item>USD</item>
+        <item>JPY</item>
+        <item>BGN</item>
+        <item>INR</item>
+        <item>PHP</item>
+        <item>SGD</item>
+        <item>THB</item>
+        <item>ZAR</item>
+
+    </string-array>
+
+    <string-array name="currencies2">
+        <item>USD</item>
+
+        <item>EUR</item>
+        <item>JPY</item>
+        <item>BGN</item>
+        <item>INR</item>
+        <item>PHP</item>
+        <item>SGD</item>
+        <item>THB</item>
+        <item>ZAR</item>
+
+    </string-array>
+</resources>
